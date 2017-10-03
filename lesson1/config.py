@@ -5,7 +5,7 @@
 class DevConfig:
 
     DEBUG = True
-
+    SECRET_KEY = '123456'
 
 config = {
 

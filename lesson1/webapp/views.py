@@ -7,6 +7,6 @@ from webapp import app
 @app.route('/index')
 @app.route('/home')
 def index():
-    return 'Hello Flask!'
+    return '<body>Hello Flask!</body>'
 
 
