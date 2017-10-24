@@ -1,5 +1,6 @@
 # learn_flask
 To build a personal website, learn flask from zero
+Demo code of learn flask, refer to http://www.sylar.site
 
 #lesson1
 Start our first flask webapp;
