@@ -11,5 +11,6 @@ def create_app(config):
 
     app.config.from_object(config)
     debug_toolbar.init_app(app)
+    return app
 
 from webapp import views
