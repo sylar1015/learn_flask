@@ -1,6 +1,6 @@
 backports.ssl-match-hostname==3.4.0.2
 blinker==1.4
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 Cheetah==2.4.4
 click==6.7
